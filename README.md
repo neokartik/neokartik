@@ -1,3 +1,4 @@
+![logo](https://github.com/neokartik/neokartik/blob/main/Git_hub_banner.png)
 <h1 align="center">Hi 👋, I'm Kartik Raghuwanshi</h1>
 <h3 align="center">A passionate Data Analyst From India</h3>
 
